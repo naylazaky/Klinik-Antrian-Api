@@ -1,0 +1,5 @@
+$kind: http-request
+name: Get Waiting Queues
+url: ""
+method: GET
+order: 1212222444404735

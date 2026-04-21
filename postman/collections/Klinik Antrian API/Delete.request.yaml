@@ -1,0 +1,5 @@
+$kind: http-request
+name: Delete
+url: ""
+method: GET
+order: 2570042156777471

@@ -1,0 +1,5 @@
+$kind: http-request
+name: Get All Queues
+url: ""
+method: GET
+order: 1231295375998975
